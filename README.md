@@ -67,6 +67,5 @@ This base project is easily modified to use other chains, llms, and vectorstores
 
 _Contributing_
 
-I welcome contributions to this project. Please feel free to open an issue or submit a pull request. However, there's a larger project this feeds into that is worth discussing if you're considering contributing. Contact me by [email](mailto:luke@assisted.space), discord (lukelinguist), or visit [luke.augcom.tech](https://luke.augcom.tech).
-
+I welcome contributions to this project. Please feel free to open an issue or submit a pull request. However, there's a larger project this feeds into that is worth discussing if you're considering contributing. 
 _This project is licensed under the terms of the MIT license._
