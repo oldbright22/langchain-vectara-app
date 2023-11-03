@@ -4,8 +4,6 @@
 
 This is an implementation of a Conversational Retrieval Chain with Sources (LangChain) that performs a semantic search of a Vectara database, all with a Chainlit frontend including chat settings and other fancy bits.
 
-Blame this guy -> luke@lukesteuber.com
-
 ---
 
 ### Configure and Run
